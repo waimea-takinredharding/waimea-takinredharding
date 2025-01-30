@@ -1,5 +1,8 @@
 ## Kept you waiting, huh?
 
+I am currently a astudent at Waimea College.
+
+ Fun fact:  Son Goku first achieved Super Saiyan on March 19, 1991, within chapter 317 of the Dragon Ball manga, while Sonic the Hedgehog only achieved the Super transformation of the Chaos Emeralds in 1992’s Sonic the Hedgehog 2.
 <!--
 **waimea-takinredharding/waimea-takinredharding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
