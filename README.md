@@ -1,4 +1,4 @@
-## Hi there 👋
+## Kept you waiting, huh?
 
 <!--
 **waimea-takinredharding/waimea-takinredharding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
