@@ -1,6 +1,6 @@
 ## Kept you waiting, huh?
 
-I am currently a a student at Waimea College.
+I am currently a student at Waimea College.
 
 I have beginner experience in Python and Kotlin coding.
 
